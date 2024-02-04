@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../htdocs/app-lista-tarefas/app_lista_tarefas_public"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
